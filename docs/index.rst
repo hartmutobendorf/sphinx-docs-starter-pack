@@ -22,7 +22,7 @@ In this documentation
       :link: /tutorial/index
       :link-type: doc
 
-      **Get started** - use Sphinx and Read the Docs to host and test your documentation.
+      **Get started** - use Sphinx to host and test your documentation.
 
    .. grid-item-card:: How-to guides
       :link: /how-to/index
